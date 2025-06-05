@@ -27,7 +27,7 @@ I am broadly interested in building NLP systems for linguistically diverse and u
 
 <b>May 2025</b> I received the MSc Postgraduate Research Paper Award from the Computer Science Department at the University of Cape Town for my [Masters paper](https://aclanthology.org/2024.lrec-main.1063/).
 
-<b>May 2025</b> The [BAREC 2025: Arabic Readbility Assessment Shared Task](https://barec.camel-lab.com/sharedtask2025) is accepted to ArabicNLP 2025 conference.
+<b>May 2025</b> The [BAREC 2025: Arabic Readability Assessment Shared Task](https://barec.camel-lab.com/sharedtask2025) is accepted to ArabicNLP 2025 conference.
 
 <!--
 <h2>News</h2>
