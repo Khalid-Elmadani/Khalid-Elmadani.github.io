@@ -7,16 +7,27 @@ title: About
 
 <img src="/images/pp.jpg" alt="drawing" width="200" style="float:right; padding: 10pt; padding-top: 5pt"/>
 
-I am a Research Assistant at the Computational Approaches to Modeling Language (CAMeL) Lab at New York University Abu Dhabi (NYUAD), advised by Professor Nizar Habash.
-I am currently working on tools for Arabic Readability Assessment as part of the Balanced Arabic Readability Evaluation Corpus (BAREC) project.
+I am a Research Assistant at the [Computational Approaches to Modeling Language (CAMeL)](https://camel-lab.com/) Lab at New York University Abu Dhabi (NYUAD), advised by Professor [Nizar Habash](https://www.nizarhabash.com/).
+I am currently working on tools for Arabic Readability Assessment as part of the [Balanced Arabic Readability Evaluation Corpus (BAREC)](https://barec.camel-lab.com/) project.
 
-Previously, I completed my Master’s by Dissertation in Computer Science at the University of Cape Town, where I was part of the UCT NLP group under the supervision of Dr. Jan Buys. My research focused on Neural Machine Translation between low-resource languages. Prior to that, I obtained my Bachelor’s degree in Electrical and Electronic Engineering from the University of Khartoum in Sudan.
+Previously, I completed my Master’s by Dissertation in Computer Science at the University of Cape Town, where I was part of the [UCT NLP](https://www.janmbuys.com/uctnlp/index.html) group under the supervision of Dr. [Jan Buys](https://www.janmbuys.com/). My research focused on Neural Machine Translation between low-resource languages. Prior to that, I obtained my Bachelor’s degree in Electrical and Electronic Engineering from the University of Khartoum in Sudan.
 
 I am broadly interested in building NLP systems for linguistically diverse and underrepresented languages.
 
 
 
 <b> Reviewing (2024-2025): </b> AfricaNLP
+
+
+<h2>News</h2>
+
+<b>May 2025</b> Our paper [A Large and Balanced Corpus for Fine-grained Arabic Readability Assessment](https://arxiv.org/abs/2502.13520) is accepted to the Findings of ACL 2025.
+
+<b>May 2025</b> Our paper [Guidelines for Fine-grained Sentence-level Arabic Readability Annotation](https://arxiv.org/abs/2410.08674) is accepted to the Linguistic Annotation Workshop (LAW) @ ACL 2025.
+
+<b>May 2025</b> I received the MSc Postgraduate Research Paper Award from the Computer Science Department at the University of Cape Town for my [Masters paper](https://aclanthology.org/2024.lrec-main.1063/).
+
+<b>May 2025</b> The [BAREC 2025: Arabic Readbility Assessment Shared Task](https://barec.camel-lab.com/sharedtask2025) is accepted to ArabicNLP 2025 conference.
 
 <!--
 <h2>News</h2>

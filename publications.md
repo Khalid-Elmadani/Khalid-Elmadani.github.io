@@ -4,6 +4,45 @@ title: Publications
 permalink: /publications/
 ---
 
+* 	[A Large and Balanced Corpus for Fine-grained Arabic Readability Assessment](https://arxiv.org/abs/2502.13520) \
+	<b>Khalid N. Elmadani</b>, Nizar Habash and Hanada Taha-Thomure\
+	Findings of ACL 2025
+
+* 	[Guidelines for Fine-grained Sentence-level Arabic Readability Annotation](https://arxiv.org/abs/2410.08674) \
+	Nizar Habash, Hanada Taha-Thomure, <b>Khalid N. Elmadani</b>, Zeina Zeino and Abdallah Abushmaes\
+	Linguistic Annotation Workshop (LAW) @ ACL 2025
+
+* 	[Neural Machine Translation between Low-Resource Languages with Synthetic Pivoting](https://aclanthology.org/2024.lrec-main.1063/) \
+	<b>Khalid N. Elmadani</b> and Jan Buys\
+	LREC-COLING 2024
+
+* 	[Model Extraction Attacks on DistilBERT](https://openreview.net/forum?id=njpSzZ6mCU) \
+	Amro Salman, Ayman Saeed, <b>Khalid N. Elmadani</b> and Sharief Babiker\
+	Tiny Paper @ ICLR 2023
+
+* 	[Model Extraction Attacks on Arabic BERT-Based APIs](https://openreview.net/forum?id=XptW6NuULJ) \
+	Hassan Abbelkarim, Mohammed Eltahir, <b>Khalid N. Elmadani</b> and Anas Showk\
+	Tiny Paper @ ICLR 2023
+
+* 	[University of Cape Town’s WMT22 System: Multilingual Machine Translation for Southern African Languages](https://aclanthology.org/2022.wmt-1.101/) \
+	<b>Khalid N. Elmadani</b>, Francois Meyer and Jan Buys\
+	WMT22 @ EMNLP 2022
+
+* 	[Masader Plus: A New Interface for Exploring +500 Arabic NLP Datasets](https://arxiv.org/abs/2208.00932) \
+	Yousef Altaher, Ali Fadel, Mazen Alotaibi, Mazen Alyazidi, Mishari Al-Mutairi, Mutlaq Aldhbuiub, Abdulrahman Mosaibah, Abdelrahman Rezk, Abdulrazzaq Alhendi, Mazen Abo Shal, Emad A. Alghamdi, Maged S. Alshaibani, Jezia Zakraoui, Wafaa Mohammed, Kamel Gaanoun, <b>Khalid N. Elmadani</b>, Mustafa Ghaleb, Nouamane Tazi, Raed Alharbi, Maraim Masoud and Zaid Alyafeai\
+	Preprint
+
+* 	[SudaBERT: A Pre-trained Encoder Representation For Sudanese Arabic Dialect](https://ieeexplore.ieee.org/document/9429651) \
+	Mukhtar Elgezouli*, <b>Khalid N. Elmadani</b>* and Muhammed Saeed*\
+	ICCCEEE 2020
+
+* 	[BERT Fine-tuning For Arabic Text Summarization](https://arxiv.org/abs/2004.14135) \
+	<b>Khalid N. Elmadani</b>* and Mukhtar Elgezouli*\
+	AfricaNLP Workshop @ ICLR 2020
+
+
+
+<!--
 <h1>Conference Papers</h1>
 
 
@@ -90,4 +129,4 @@ permalink: /publications/
 *	BSc Honours thesis: Learning Concept Embeddings from Temporal Data\
 	University of Stellenbosch, 2017\
 	Supervisor: Brink van der Merwe
-
+-->
