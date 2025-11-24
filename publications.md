@@ -4,11 +4,23 @@ title: Publications
 permalink: /publications/
 ---
 
-* 	[A Large and Balanced Corpus for Fine-grained Arabic Readability Assessment](https://arxiv.org/abs/2502.13520) \
+* 	[BAREC Shared Task 2025 on Arabic Readability Assessment](https://aclanthology.org/2025.arabicnlp-sharedtasks.34/) \
+	<b>Khalid N. Elmadani</b>, Bashar Alhafni, Hanada Taha and Nizar Habash\
+	Shared Task Overview @ ArabicNLP 2025
+
+* 	[BAREC Demo: Resources and Tools for Sentence-level Arabic Readability Assessment](https://aclanthology.org/2025.emnlp-demos.74/) \
+	Kinda Altarbouch, <b>Khalid N. Elmadani</b>, Ossama Obeid, Hanada Taha and Nizar Habash\
+	Demo @ EMNLP 2025
+
+* 	[BALSAM: A Platform for Benchmarking Arabic Large Language Models](https://aclanthology.org/2025.arabicnlp-main.21/) \
+	Rawan Nasser Almatham, Kareem Mohamed Darwish, Raghad Al-Rasheed, Waad Thuwaini Alshammari, Muneera Alhoshan, Amal Almazrua, Asma Al Wazrah, Mais Alheraki, Firoj Alam, Preslav Nakov, Norah A. Alzahrani, Eman Albilali, Nizar Habash, Abdelrahman Mustafa El-Sheikh, Muhammad Elmallah, Hamdy Mubarak, Zaid Alyafeai, Mohamed Anwar, Haonan Li, Ahmed Abdelali, Nora Altwairesh, Maram Hasanain, Abdulmohsen Al-Thubaity, Shady Shehata, Bashar Alhafni, Injy Hamed, Go Inoue, <b>Khalid N. Elmadani</b>, Ossama Obeid, Fatima Haouari, Tamer Elsayed, Emad A. Alghamdi, Khalid Almubarak, Saied Alshahrani, Ola Aljareh, Safa Alajlan, Areej Alshaqarawi, Maryam Alshihri, Sultana Alghurabi, Atikah Alzeghayer, Afrah Altamimi, Abdullah Alfaifi and Abdulrahman M Alosaimy\
+	ArabicNLP 2025
+
+* 	[A Large and Balanced Corpus for Fine-grained Arabic Readability Assessment](https://aclanthology.org/2025.findings-acl.842/) \
 	<b>Khalid N. Elmadani</b>, Nizar Habash and Hanada Taha-Thomure\
 	Findings of ACL 2025
 
-* 	[Guidelines for Fine-grained Sentence-level Arabic Readability Annotation](https://arxiv.org/abs/2410.08674) \
+* 	[Guidelines for Fine-grained Sentence-level Arabic Readability Annotation](https://aclanthology.org/2025.law-1.30/) \
 	Nizar Habash, Hanada Taha-Thomure, <b>Khalid N. Elmadani</b>, Zeina Zeino and Abdallah Abushmaes\
 	Linguistic Annotation Workshop (LAW) @ ACL 2025
 
