@@ -45,11 +45,11 @@ permalink: /publications/
 	Preprint
 
 * 	[SudaBERT: A Pre-trained Encoder Representation For Sudanese Arabic Dialect](https://ieeexplore.ieee.org/document/9429651) \
-	Mukhtar Elgezouli*, <b>Khalid N. Elmadani</b>* and Muhammed Saeed*\
+	Mukhtar Elgezouli, <b>Khalid N. Elmadani</b> and Muhammed Saeed\
 	ICCCEEE 2020
 
 * 	[BERT Fine-tuning For Arabic Text Summarization](https://arxiv.org/abs/2004.14135) \
-	<b>Khalid N. Elmadani</b>* and Mukhtar Elgezouli*\
+	<b>Khalid N. Elmadani</b>, Mukhtar Elgezouli and Anas Showk\
 	AfricaNLP Workshop @ ICLR 2020
 
 
