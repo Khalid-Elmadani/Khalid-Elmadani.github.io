@@ -5,7 +5,7 @@ title: About
 
 <a href="https://scholar.google.com/citations?user=bQr9TTEAAAAJ&hl=en">Google Scholar</a> - <a href="https://x.com/khalid_elmadani">X</a> - <a href="https://www.linkedin.com/in/khalid-elmadani-268578159/">LinkedIn</a> - <a href="https://github.com/khalid-elmadani">GitHub</a>
 
-<img src="/images/pp.jpg" alt="drawing" width="200" style="float:right; padding: 10pt; padding-top: 5pt"/>
+<img src="/images/Khalid_Elmadani.jpg" alt="drawing" width="200" style="float:right; padding: 10pt; padding-top: 5pt"/>
 
 I am a Research Assistant at the [Computational Approaches to Modeling Language (CAMeL)](https://camel-lab.com/) Lab at New York University Abu Dhabi (NYUAD), advised by Professor [Nizar Habash](https://www.nizarhabash.com/).
 I am currently working on tools for Arabic Readability Assessment as part of the [Balanced Arabic Readability Evaluation Corpus (BAREC)](https://barec.camel-lab.com/) project.
