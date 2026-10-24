@@ -7,18 +7,36 @@ title: About
 
 <img src="/images/Khalid_Elmadani.jpg" alt="drawing" width="200" style="float:right; padding: 10pt; padding-top: 5pt"/>
 
-I am a Research Assistant at the [Computational Approaches to Modeling Language (CAMeL)](https://camel-lab.com/) Lab at New York University Abu Dhabi (NYUAD), advised by Professor [Nizar Habash](https://www.nizarhabash.com/).
-I am currently working on tools for Arabic Readability Assessment as part of the [Balanced Arabic Readability Evaluation Corpus (BAREC)](https://barec.camel-lab.com/) project.
+I am a PhD student at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by Dr. [Bashar Alhafni](https://www.basharalhafni.com/).
+I am working on Readability-Controlled Text Generation.
+My research interests include ArabicNLP, Readability Assessmnet, Text Simplification, and Machine Translation.
+
+Previously, I was a Research Assistant at the [Computational Approaches to Modeling Language (CAMeL)](https://camel-lab.com/) Lab at New York University Abu Dhabi (NYUAD), advised by Professor [Nizar Habash](https://www.nizarhabash.com/).
+I worked on tools for Arabic Readability Assessment as part of the [Balanced Arabic Readability Evaluation Corpus (BAREC)](https://barec.camel-lab.com/) project.
 
 Previously, I completed my Master’s by Dissertation in Computer Science at the University of Cape Town, where I was part of the [UCT NLP](https://www.janmbuys.com/uctnlp/index.html) group under the supervision of Dr. [Jan Buys](https://www.janmbuys.com/). My research focused on Neural Machine Translation between low-resource languages. Prior to that, I obtained my Bachelor’s degree in Electrical and Electronic Engineering from the University of Khartoum in Sudan.
 
-I am interested in building more inclusive and accessible NLP systems, particularly for users who remain underserved in current AI research.
+<!-- I am interested in building more inclusive and accessible NLP systems, particularly for users who remain underserved in current AI research. -->
 
 
-<b> Reviewing (2024-2025): </b> AfricaNLP
+<b> Reviewing: </b> AfricaNLP (2024-2025), ArabicNLP 2026
 
 
 <h2>News</h2>
+
+<b>October 2026</b> I'm attending EMNLP 2026 to present three papers.
+
+- A Benchmark for Arabic Lemma-Level Readability Assessment\
+Khalid N. Elmadani, Mostafa Saeed, Hanada Taha-Thomure, Nizar Habash\
+EMNLP 2026 \[Main]
+
+- BAREC-TB: A Dependency Treebank and Parsing Benchmark for Arabic Children’s Texts\
+Khalid N. Elmadani, Mohamed Adel, Muhammed AbuOdeh, Reem Faraj, Jamila El-Gizuli, Hanada Taha-Thomure, Nizar Habash\
+ArabicNLP 2026 \[Main]
+
+- BAREC-ST-2026: The Second Shared Task on Arabic Readability Assessment\
+Khalid N. Elmadani, Bashar Alhafni, Hanada Taha-Thomure, Nizar Habash\
+ArabicNLP 2026 \[Shared Task]
 
 <b>November 2025</b> I'm attending EMNLP 2025 to present two papers.
 
